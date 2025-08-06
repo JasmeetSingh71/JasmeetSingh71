@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing **Computer Science** at **NIT Srinagar**, India  
-- 🌱 Learning the **MERN Stack** and practicing **Data Structures & Algorithms in C++**
+- 🌱 Full stack developer and practicing **Data Structures & Algorithms in C++**
 - 🏀 I'm an athlete — love playing **basketball**, hitting the **gym**, and staying active  
 - 🚀 Passionate about building real-world web projects and constantly growing my skillset
 
